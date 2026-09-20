@@ -34,7 +34,7 @@
 <tr>
 <td align="center" bgcolor="#090D16">
 <code><b>&gt; TTY_NAV:</b></code> 
-<a href="#01--system-identity--overview"><code>[01 WHOAMI]</code></a> · 
+<a href="#01--system-identity--biometric-scan"><code>[01 WHOAMI]</code></a> · 
 <a href="#02--technical-stack--inventory"><code>[02 TECH STACK]</code></a> · 
 <a href="#03--focus-areas--projects"><code>[03 PROJECTS]</code></a> · 
 <a href="#04--github-telemetry--velocity-dashboard"><code>[04 TELEMETRY]</code></a> · 
@@ -48,20 +48,21 @@
 
 ---
 
-## 01 // SYSTEM IDENTITY & OVERVIEW
+## 01 // SYSTEM IDENTITY & BIOMETRIC SCAN
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<td valign="top" width="48%" bgcolor="#090D16">
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%" alt="Tech Quote" />
-</div>
-<br/>
+<td align="center" width="38%" bgcolor="#090D16">
+  <br/>
+  <img src="assets/profile.jpg" alt="Ankana Das" width="230" />
+  <br/><br/>
+  <code><b>IDENTITY NODE // ANKANA DAS</b></code><br/>
+  <small>Software Developer · Problem Solver</small>
+  <br/><br/>
 </td>
-<td valign="middle" width="52%" bgcolor="#080E1A">
+<td valign="middle" width="62%" bgcolor="#080E1A">
 
 <table width="100%">
 <tr>
