@@ -2,12 +2,12 @@
 
 <!-- HERO BANNER -->
 <a href="https://github.com/AnkanaDas06">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1e293b,50:0f172a,100:3b82f6&height=200&section=header&text=Ankana%20Das&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20DSA%20%26%20Problem%20Solving%20%7C%20Tech%20Enthusiast&descFontSize=18&descAlignY=65&descAlign=50" width="100%" alt="Ankana Das Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1e293b,50:0f172a,100:3b82f6&height=200&section=header&text=Ankana%20Das&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=2nd%20Year%20CS%20Student%20%7C%20DSA%20%26%20Problem%20Solving%20%7C%20Software%20Developer&descFontSize=18&descAlignY=65&descAlign=50" width="100%" alt="Ankana Das Banner" />
 </a>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AnkanaDas06">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Ankana+Das+%F0%9F%91%8B;Passionate+about+DSA+%26+Problem+Solving;Core+in+C%2B%2B%2C+C%2C+Java%2C+Python+%26+SQL;Crafting+responsive+web+interfaces+with+HTML%2C+CSS+%26+JS;Always+eager+to+learn%2C+build+%26+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Ankana+Das+%F0%9F%91%8B;2nd+Year+CS+Student+%26+Developer+%F0%9F%8E%93;Passionate+about+DSA+%26+Problem+Solving;Core+in+C%2B%2B%2C+C%2C+Java%2C+Python+%26+SQL;Crafting+responsive+web+interfaces+with+HTML%2C+CSS+%26+JS;Always+eager+to+learn%2C+build+%26+collaborate!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,18 +33,23 @@
       <img src="assets/profile.jpg" alt="Ankana Das" width="220" />
       <br/>
       <b>Ankana Das</b><br/>
-      <sub>Software Developer & Tech Enthusiast</sub>
+      <sub>2nd Year Computer Science Student & Developer</sub>
     </td>
     <td width="65%" valign="middle">
       <p>
-        Hello! I'm a motivated developer with a strong foundation in computer science principles, algorithmic thinking, and modern web technologies. I enjoy solving challenging coding problems, structuring efficient data architectures, and building intuitive user interfaces.
+        Hello! I'm a motivated <b>2nd-year Computer Science student</b> with a strong foundation in software principles, algorithmic thinking, and modern web development. I enjoy tackling challenging algorithmic problems, writing clean modular code, and building intuitive user experiences.
       </p>
       <ul>
+        <li>🎓 <b>Academic Trajectory:</b> Currently in <b>2nd Year</b></li>
+        <li>📈 <b>Academic Performance:</b> 
+          <img src="https://img.shields.io/badge/1st_Sem_GPA-8.45-38BDF8?style=flat-square" alt="1st Sem GPA 8.45" />
+          <img src="https://img.shields.io/badge/2nd_Sem_GPA-7.81-10B981?style=flat-square" alt="2nd Sem GPA 7.81" />
+        </li>
         <li>🎯 <b>Core Focus:</b> Data Structures & Algorithms (DSA), Problem Solving, and Object-Oriented Design.</li>
-        <li>🌐 <b>Frontend:</b> Developing clean, responsive, and cross-browser web pages using HTML5, CSS3, and JavaScript.</li>
         <li>💻 <b>Languages:</b> Proficient in C++, C, Java, Python, JavaScript, and SQL / MySQL.</li>
+        <li>🌐 <b>Frontend:</b> Developing clean, responsive, and cross-browser web pages using HTML5, CSS3, and JavaScript.</li>
         <li>🌱 <b>Growth Mindset:</b> Constantly refining algorithmic efficiency and exploring new software tools.</li>
-        <li>🤝 <b>Collaboration:</b> Open to hackathons, open-source projects, internships, and networking opportunities.</li>
+        <li>🤝 <b>Collaboration:</b> Open to hackathons, internships, open-source projects, and networking opportunities.</li>
       </ul>
     </td>
   </tr>
