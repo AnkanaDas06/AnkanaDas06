@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AnkanaDas06">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ankana+Das+%F0%9F%91%8B;Passionate+about+DSA+%26+Problem+Solving;Core+in+C%2B%2B%2C+C%2C+Java+%26+Python;Crafting+responsive+web+interfaces+with+HTML%2C+CSS+%26+JS;Always+eager+to+learn%2C+build+%26+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Ankana+Das+%F0%9F%91%8B;Passionate+about+DSA+%26+Problem+Solving;Core+in+C%2B%2B%2C+C%2C+Java%2C+Python+%26+SQL;Crafting+responsive+web+interfaces+with+HTML%2C+CSS+%26+JS;Always+eager+to+learn%2C+build+%26+collaborate!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,7 +42,7 @@
       <ul>
         <li>🎯 <b>Core Focus:</b> Data Structures & Algorithms (DSA), Problem Solving, and Object-Oriented Design.</li>
         <li>🌐 <b>Frontend:</b> Developing clean, responsive, and cross-browser web pages using HTML5, CSS3, and JavaScript.</li>
-        <li>💻 <b>Languages:</b> Proficient in C++, C, Java, Python, and JavaScript.</li>
+        <li>💻 <b>Languages:</b> Proficient in C++, C, Java, Python, JavaScript, and SQL / MySQL.</li>
         <li>🌱 <b>Growth Mindset:</b> Constantly refining algorithmic efficiency and exploring new software tools.</li>
         <li>🤝 <b>Collaboration:</b> Open to hackathons, open-source projects, internships, and networking opportunities.</li>
       </ul>
@@ -56,13 +56,15 @@
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming & Query Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### 🌐 Web Technologies
@@ -98,7 +100,7 @@
     <td width="50%" valign="top">
       <h3 align="center">⚔️ Algorithmic Problem Solving</h3>
       <p align="center">
-        <i>Optimized data structures, competitive programming solutions, and algorithmic patterns implemented in C++ and Java.</i>
+        <i>Optimized data structures, competitive programming solutions, and algorithmic patterns implemented in C++, Java, and Python.</i>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
